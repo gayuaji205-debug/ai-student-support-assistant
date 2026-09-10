@@ -1,0 +1,31 @@
+[EXAM SCHEDULE]
+The semester examination schedule is published by the examination cell.
+Students should check the latest examination notice for dates, rooms, and
+reporting times. Contact the examination cell at examcell@example.edu for
+clarifications.
+
+[STUDENT GUIDELINES]
+Students must carry their identity card, follow the academic integrity policy,
+arrive at least  fifteen minutes before an examination, and follow instructions
+from faculty members. Keep institutional notices and personal records private.
+
+[LIBRARY]
+The library is open Monday to Saturday from 9:00 AM to 6:00 PM. Students can
+borrow up to three books for fourteen days. Use the library desk for renewals
+and lost-book questions.
+
+[FEES]
+Fee-payment dates are published by the accounts office. Students should keep
+their payment receipt and contact accounts@example.edu if a payment is not
+reflected in the student portal.
+
+[ATTENDANCE]
+Students should maintain the attendance percentage required by their
+institution and contact their department office when medical or approved
+leave documentation is needed.
+
+[CONTACTS]
+Examination Cell: examcell@example.edu
+Accounts Office: accounts@example.edu
+Library Desk: library@example.edu
+Student Help Desk: support@example.edu
